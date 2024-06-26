@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejercicio18.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\Usuario\Downloads\ejercicio18.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="57" Y="9"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="35" Column="55"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="25" Column="76"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="31" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="22" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="18" Column="77"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="18"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="18"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="17"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="17"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="22"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="18" Column="39"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="17"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="16" Column="79"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="18"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="16" Column="93"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="17" Column="37"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="25" Column="40"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="28" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="26" Column="32" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="15" Column="92" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="17" Column="75"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="24" Column="48"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="25" Column="53"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="24" Column="43"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="19" Column="147"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="18" Column="134"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio18.pas"/>
+        <Caret Line="40" Column="12" TopLine="5"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

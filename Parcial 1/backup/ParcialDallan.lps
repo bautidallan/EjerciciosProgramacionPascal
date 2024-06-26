@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ParcialDallan.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="101"/>
+        <CursorPos X="61" Y="122"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="17">
+      <Position>
+        <Filename Value="ParcialDallan.pas"/>
+        <Caret Line="56" Column="16" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="ParcialDallan.pas"/>
+        <Caret Line="66" Column="7" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="ParcialDallan.pas"/>
+        <Caret Line="67" Column="24" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="ParcialDallan.pas"/>
+        <Caret Line="55" Column="51" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="ParcialDallan.pas"/>
+        <Caret Line="77" Column="44" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="ParcialDallan.pas"/>
+        <Caret Line="78" Column="11" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="ParcialDallan.pas"/>
+        <Caret Line="97" Column="76" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="ParcialDallan.pas"/>
+        <Caret Line="66" Column="54" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="ParcialDallan.pas"/>
+        <Caret Line="87" Column="12" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="ParcialDallan.pas"/>
+        <Caret Line="67" Column="56" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="ParcialDallan.pas"/>
+        <Caret Line="99" Column="76" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="ParcialDallan.pas"/>
+        <Caret Line="91" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="ParcialDallan.pas"/>
+        <Caret Line="106" Column="101" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="ParcialDallan.pas"/>
+        <Caret Line="110" Column="17" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="ParcialDallan.pas"/>
+        <Caret Line="111" Column="9" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="ParcialDallan.pas"/>
+        <Caret Line="117" Column="42" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="ParcialDallan.pas"/>
+        <Caret Line="118" Column="35" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="ParcialDallan.pas"/>
+        <Caret Line="139" Column="76" TopLine="101"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,25 @@
+Funciones a realizar por la app?
+-Buscar una pelicula x titulo  [Status:Listo,añadir estilos]
+-Añadir una pelicula [Status:Listo, añadir estilos]
+-Mostrar un listado de peliculas [Status:Listo]
+-Al hacer click en una pelicula mostrada te lleva a la url del JSON [Status:Listo]
+
+Detalle por funcionalidad
+-Buscar una pelicula x titulo : Debo crear un input(o directamente con un prompt) con un botton que diga buscar x titulo
+,ese boton al ser tocado debera ejecutar una funcion find en el JSON
+si la encuentra debera mostrarla? Sino , alerta de q no se encontro
+
+--Mostrar peliculas : Genere un boton que al tocarlo añade una pelicula random del listado de JSON, para eso genero un evento
+que llama a la funcion generar aleatorio, ese numero generado lo uso como index para agregar
+una pelicula cualquiera
+
+-Añadir peliculas:Crear un formulario con inputs en el cual el usuario ingrese:
+Nombre,año,link, y una imagen. Despues desde el DOM seleccionar(Botones,inputs) y
+agregar la funcionalidad. Crear objeto? Investigar sobre eso
+<---------------------------------->
+
+Bonus: Boton de pelicula favorita
+
+Boton de pelicula favorita: Al tocar ese boton,preferiblemente una estrella
+que cuando toque se cambie el color de esa pelicula,pensar que solo puede ser una
+la favorita.

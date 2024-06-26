@@ -1,0 +1,2 @@
+que es menos 'costoso', una funcion o un procedimiento? Por ej llamar varias veces a una
+funcion o usar un procedimiento

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejercicio1Segunda.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="40"/>
+        <CursorPos X="57" Y="71"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="5">
+      <Position>
+        <Filename Value="ejercicio1Segunda.pas"/>
+        <Caret Line="30" Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio1Segunda.pas"/>
+        <Caret Line="82" Column="54" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio1Segunda.pas"/>
+        <Caret Line="53" Column="27" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio1Segunda.pas"/>
+        <Caret Line="62" Column="5" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio1Segunda.pas"/>
+        <Caret Line="69" Column="19" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio1Segunda.pas"/>
+        <Caret Line="62" Column="5" TopLine="48"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

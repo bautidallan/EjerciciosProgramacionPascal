@@ -1,0 +1,9 @@
+JuanPerez 
+3
+1200 S
+100 N
+50 S
+JorgeRicardo
+1
+250 N
+

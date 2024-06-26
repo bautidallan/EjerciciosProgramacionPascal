@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejercicio7segunda.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="4"/>
+        <CursorPos X="21" Y="25"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="5">
+      <Position>
+        <Filename Value="ejercicio7segunda.lpr"/>
+        <Caret Line="38" Column="26"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio7segunda.lpr"/>
+        <Caret Line="33" Column="11" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio7segunda.lpr"/>
+        <Caret Line="35" Column="16" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio7segunda.lpr"/>
+        <Caret Line="34" Column="31" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio7segunda.lpr"/>
+        <Caret Line="38" Column="23" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio7segunda.lpr"/>
+        <Caret Line="43" Column="48" TopLine="4"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

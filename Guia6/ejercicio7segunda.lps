@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejercicio7segunda.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="44"/>
+        <CursorPos X="8" Y="68"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="8">
+      <Position>
+        <Filename Value="ejercicio7segunda.pas"/>
+        <Caret Line="42" Column="27" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio7segunda.pas"/>
+        <Caret Line="64" Column="54" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio7segunda.pas"/>
+        <Caret Line="5" Column="48"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio7segunda.pas"/>
+        <Caret Line="63" Column="44" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio7segunda.pas"/>
+        <Caret Line="30" Column="13" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio7segunda.pas"/>
+        <Caret Line="31" Column="3" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio7segunda.pas"/>
+        <Caret Line="54" Column="55" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio7segunda.pas"/>
+        <Caret Line="57" Column="52" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio7segunda.pas"/>
+        <Caret Line="76" Column="61" TopLine="38"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

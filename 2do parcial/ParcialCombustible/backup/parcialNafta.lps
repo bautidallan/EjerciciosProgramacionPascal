@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="parcialNafta.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="84"/>
+        <CursorPos X="20" Y="104"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="21">
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="44" Column="24" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="64" Column="18" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="58" Column="36" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="73" Column="28" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="76" Column="28" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="66" Column="57" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="84" Column="46" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="66" Column="33" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="95" Column="48" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="94" Column="13" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="95" Column="59" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="104" Column="5" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="113" Column="100" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="104" Column="21" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="112" Column="23" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="110" Column="26" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="113" Column="65" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="149" Column="13" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="98" Column="26" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="112" Column="31" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="113" Column="94" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialNafta.pas"/>
+        <Caret Line="104" Column="18" TopLine="96"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

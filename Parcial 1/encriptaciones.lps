@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="encriptaciones.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="47"/>
+        <CursorPos X="4" Y="84"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="5">
+      <Position>
+        <Filename Value="encriptaciones.pas"/>
+        <Caret Line="22"/>
+      </Position>
+      <Position>
+        <Filename Value="encriptaciones.pas"/>
+        <Caret Line="23" Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="encriptaciones.pas"/>
+        <Caret Line="24" Column="135" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="encriptaciones.pas"/>
+        <Caret Line="53" Column="129" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="encriptaciones.pas"/>
+        <Caret Line="85" Column="39" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="encriptaciones.pas"/>
+        <Caret Line="72" Column="34" TopLine="44"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

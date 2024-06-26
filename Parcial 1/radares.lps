@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="radares.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="101"/>
+        <CursorPos X="19" Y="123"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\Usuario\Downloads\primerparcialcorregido (2).lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="67"/>
+        <CursorPos X="28" Y="50"/>
+        <UsageCount Value="11"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="88" Column="112" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="96" Column="40" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="90" Column="16" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="118" Column="54" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="119" Column="4" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="109" Column="61" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="101" Column="4" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="104" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="105" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="107" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="110" Column="36" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="94" Column="5" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="110" Column="35" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="106" Column="61" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="103" Column="31" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="107" Column="59" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="121" Column="25" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="102" Column="24" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="122" Column="27" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="144" Column="110" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="97" Column="15" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="110" Column="34" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="119" Column="46" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="93" Column="20" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="119" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="71" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="61" Column="95" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="165" Column="30" TopLine="127"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="128" Column="51" TopLine="107"/>
+      </Position>
+      <Position>
+        <Filename Value="radares.pas"/>
+        <Caret Line="138" Column="34" TopLine="117"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

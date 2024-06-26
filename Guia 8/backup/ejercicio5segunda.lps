@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejercicio5segunda.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="20"/>
+        <CursorPos X="29" Y="38"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ejercicio5.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <CursorPos X="20" Y="58"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="3">
+      <Position>
+        <Filename Value="ejercicio5segunda.pas"/>
+        <Caret Line="46" Column="56" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio5segunda.pas"/>
+        <Caret Line="48" Column="5" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio5segunda.pas"/>
+        <Caret Line="50" Column="9" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio5segunda.pas"/>
+        <Caret Line="59" Column="34" TopLine="21"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

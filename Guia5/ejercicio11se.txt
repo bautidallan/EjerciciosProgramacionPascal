@@ -1,0 +1,4 @@
+Pau 100 80
+Marcos 120 75
+Fausto 135 77
+Jorge 80 130

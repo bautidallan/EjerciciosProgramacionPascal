@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Noticias.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="10"/>
+        <CursorPos X="26" Y="48"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Recu2021.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="105"/>
+        <CursorPos X="31" Y="61"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="9">
+      <Position>
+        <Filename Value="Noticias.pas"/>
+        <Caret Line="29" Column="29"/>
+      </Position>
+      <Position>
+        <Filename Value="Noticias.pas"/>
+        <Caret Line="21" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="Noticias.pas"/>
+        <Caret Line="26" Column="15" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="Noticias.pas"/>
+        <Caret Line="57" Column="29" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="Noticias.pas"/>
+        <Caret Line="40" Column="10" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="Noticias.pas"/>
+        <Caret Line="27" Column="39"/>
+      </Position>
+      <Position>
+        <Filename Value="Noticias.pas"/>
+        <Caret Line="45" Column="14" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="Noticias.pas"/>
+        <Caret Line="23" Column="4" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="Noticias.pas"/>
+        <Caret Line="30" Column="11" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="Noticias.pas"/>
+        <Caret Line="29" Column="16" TopLine="8"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

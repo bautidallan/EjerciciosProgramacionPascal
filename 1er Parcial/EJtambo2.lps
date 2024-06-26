@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="EJtambo2.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="15"/>
+        <CursorPos X="38" Y="54"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\Usuario\Downloads\parcialtambos.lpr"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="13"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="11" Column="43"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="37" Column="22"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="15" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="21" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="31" Column="11" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="38" Column="19" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="53" Column="17" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="25" Column="16" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="29" Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="48" Column="24" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="27" Column="16" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="29" Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="27" Column="30"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="52" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="53" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="49" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="23" Column="16" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="48" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="39" Column="3" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="46" Column="28" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="50" Column="23" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="56" Column="12" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="65" Column="10" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="60" Column="7" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="64" Column="38" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="52" Column="23" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="45" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="59" Column="8" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="61" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="EJtambo2.lpr"/>
+        <Caret Line="51" TopLine="15"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

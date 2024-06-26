@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="parcialEncriptaciones.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="49"/>
+        <CursorPos X="140" Y="77"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\encriptaciones.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="4"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="2">
+      <Position>
+        <Filename Value="parcialEncriptaciones.pas"/>
+        <Caret Line="20" Column="78"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialEncriptaciones.pas"/>
+        <Caret Line="52" Column="21" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="parcialEncriptaciones.pas"/>
+        <Caret Line="26" Column="48" TopLine="19"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

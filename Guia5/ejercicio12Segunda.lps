@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="11"/>
+        <CursorPos X="140" Y="30"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="21">
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="62" Column="13" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="25" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="36" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="18" Column="13" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="36" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="38" Column="21" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="21" Column="122" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="48" Column="17" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="47" Column="16" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="32" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="26" Column="146" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="44" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="23" Column="31" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="62" Column="94" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="27" Column="75" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="47" Column="46" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="51" Column="12" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="40" Column="32" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="44" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="45" Column="17" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="50" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicio12Segunda.pas"/>
+        <Caret Line="30" Column="141" TopLine="18"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

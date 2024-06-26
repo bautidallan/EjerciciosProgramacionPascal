@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejercicioTambo.pas"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="40"/>
+        <CursorPos X="42" Y="89"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\Usuario\Downloads\Propuesto1.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="28" Y="30"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="17">
+      <Position>
+        <Filename Value="ejercicioTambo.pas"/>
+        <Caret Line="40" Column="56"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicioTambo.pas"/>
+        <Caret Line="18" Column="124" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicioTambo.pas"/>
+        <Caret Line="21" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicioTambo.pas"/>
+        <Caret Line="33" Column="23" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicioTambo.pas"/>
+        <Caret Line="41" Column="15" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicioTambo.pas"/>
+        <Caret Line="31" Column="41"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicioTambo.pas"/>
+        <Caret Line="30" Column="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicioTambo.pas"/>
+        <Caret Line="31" Column="44"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicioTambo.pas"/>
+        <Caret Line="32" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicioTambo.pas"/>
+        <Caret Line="31" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicioTambo.pas"/>
+        <Caret Line="19" Column="16" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicioTambo.pas"/>
+        <Caret Line="37" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicioTambo.pas"/>
+        <Caret Line="44" Column="10" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicioTambo.pas"/>
+        <Caret Line="49" Column="35" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicioTambo.pas"/>
+        <Caret Line="40" Column="83" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicioTambo.pas"/>
+        <Caret Line="42" Column="11" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicioTambo.pas"/>
+        <Caret Line="57" Column="19" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercicioTambo.pas"/>
+        <Caret Line="80" Column="41" TopLine="44"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

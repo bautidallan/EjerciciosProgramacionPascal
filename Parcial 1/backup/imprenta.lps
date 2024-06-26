@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="imprenta.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="72"/>
+        <CursorPos X="16" Y="108"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="14">
+      <Position>
+        <Filename Value="imprenta.lpr"/>
+        <Caret Line="12" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="imprenta.lpr"/>
+        <Caret Line="20" Column="28"/>
+      </Position>
+      <Position>
+        <Filename Value="imprenta.lpr"/>
+        <Caret Line="18" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="imprenta.lpr"/>
+        <Caret Line="58" Column="55" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="imprenta.lpr"/>
+        <Caret Line="9" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="imprenta.lpr"/>
+        <Caret Line="27" Column="22" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="imprenta.lpr"/>
+        <Caret Line="38" Column="15" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="imprenta.lpr"/>
+        <Caret Line="57" Column="15" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="imprenta.lpr"/>
+        <Caret Line="78" Column="46" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="imprenta.lpr"/>
+        <Caret Line="67" Column="13" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="imprenta.lpr"/>
+        <Caret Line="76" Column="23" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="imprenta.lpr"/>
+        <Caret Line="72" Column="36" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="imprenta.lpr"/>
+        <Caret Line="85" Column="60" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="imprenta.lpr"/>
+        <Caret Line="108" Column="14" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="imprenta.lpr"/>
+        <Caret Line="107" Column="7" TopLine="70"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

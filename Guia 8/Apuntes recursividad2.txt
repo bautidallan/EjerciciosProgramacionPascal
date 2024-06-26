@@ -1,0 +1,9 @@
+Siempre analizar condiciones de corte y verificar que al llamar
+recursivamente se modifiquen los parametros.Por ej identificar condiciones
+al buscar en un vector, las opciones son : -Caerse (Es decir no esta lo buscado)
+-Lo encuentro. Si busco de atras para adelante me ahorro el parametro i.
+Si quisiera deberia ser if i<N , de atras para adelante es if N>0 , entonces
+usa una variable menos.Una variable menos que pasar. Analizar al recorrer
+matrices = si recorro por columnas , al llegar a j=0 y si recorro filas 
+al llegar al i=0. Aparte , analizar por 'ventanas', es decir que pasa si
+cumple la condicion y sino el else

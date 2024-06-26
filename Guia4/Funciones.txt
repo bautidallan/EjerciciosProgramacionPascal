@@ -1,0 +1,2 @@
+Las funciones no leen ni escriben nada,pueden, pero no deben!
+Las variables local solo existen en ese ambito.
